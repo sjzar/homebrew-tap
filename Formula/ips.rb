@@ -3,8 +3,8 @@
 class Ips < Formula
     desc "ips is a command-line tool and library that facilitates the querying, dumping, and packaging of IP geolocation databases."
     homepage "https://github.com/sjzar/ips"
-    url "https://github.com/sjzar/ips/archive/refs/tags/v0.3.0.tar.gz"
-    sha256 "f0983d11bdfe23c7effcc4d185d6bd97e8badc422d11279e8831fbe92b2529a3"
+    url "https://github.com/sjzar/ips/archive/refs/tags/v0.3.2.tar.gz"
+    sha256 "2767e32ee66e47d5620cb98fc801e808984bd469fa6d466774dc2d55ab49100c"
     head "https://github.com/sjzar/ips.git"
   
     depends_on "go" => :build
